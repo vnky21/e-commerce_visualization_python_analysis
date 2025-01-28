@@ -1,0 +1,525 @@
+seller_city,order_id
+sao paulo,13869
+ibitinga,3146
+curitiba,1466
+guarulhos,1414
+maringa,1346
+ribeirao preto,1256
+rio de janeiro,1247
+belo horizonte,1174
+santo andre,1078
+sao jose do rio preto,947
+piracicaba,879
+campinas,832
+praia grande,807
+salto,777
+sao bernardo do campo,725
+guariba,724
+itaquaquecetuba,604
+limeira,569
+atibaia,463
+campo limpo paulista,460
+ilicinea,423
+brasilia,395
+sao luis,392
+petropolis,384
+recife,355
+jacarei,341
+sao jose dos campos,337
+cascavel,337
+osasco,328
+franca,325
+sumare,317
+porto alegre,316
+pedreira,307
+brusque,294
+presidente prudente,282
+sorocaba,265
+jau,264
+hortolandia,262
+sao goncalo,262
+penapolis,258
+londrina,241
+mogi das cruzes,223
+itatiba,209
+indaiatuba,201
+santos,199
+borda da mata,195
+teresopolis,185
+joinville,183
+diadema,175
+cajamar,175
+goiania,169
+blumenau,165
+betim,163
+cotia,161
+caxias do sul,158
+florianopolis,153
+ribeirao pires,150
+santa barbara d'oeste,150
+contagem,146
+vicente de carvalho,138
+araguari,137
+assis,137
+uberlandia,134
+bauru,131
+formiga,131
+sao carlos,125
+carapicuiba,123
+novo hamburgo,122
+itajai,118
+araraquara,117
+baependi,117
+lauro de freitas,116
+mogi guacu,110
+patos de minas,110
+sarandi,107
+pirituba,105
+sao caetano do sul,102
+capivari,102
+videira,98
+guara,96
+itapecerica da serra,95
+barueri,95
+serra negra,92
+maua,90
+jaragua do sul,90
+porto ferreira,90
+votorantim,89
+bombinhas,87
+riberao preto,87
+santa barbara d´oeste,87
+garca,85
+monte siao,85
+divinopolis,85
+santana de parnaiba,85
+sao jose dos pinhais,84
+rolandia,81
+apucarana,81
+pradopolis,80
+bebedouro,80
+uba,80
+poa,78
+navegantes,76
+botucatu,75
+americana,73
+rio claro,73
+mirandopolis,72
+jundiai,72
+amparo,72
+foz do iguacu,71
+rio do sul,70
+sao roque,70
+juiz de fora,68
+sete lagoas,68
+colombo,66
+mesquita,65
+niteroi,65
+cuiaba,64
+birigui,62
+lages,62
+queimados,61
+sao jose,60
+sao paulo - sp,58
+marilia,58
+cruzeiro,58
+canoas,56
+arapongas,56
+conselheiro lafaiete,55
+registro,54
+pinhais,53
+taubate,53
+nova friburgo,52
+carazinho,52
+alfenas,52
+tres coracoes,51
+tupa,49
+dracena,49
+teixeira soares,48
+mogi mirim,48
+sao sebastiao,47
+montenegro,47
+sao  paulo,46
+campo mourao,46
+mineiros do tiete,45
+fortaleza,43
+louveira,43
+ipaussu,43
+canoinhas,43
+campo largo,43
+valinhos,42
+sao joao de meriti,42
+sao ludgero,41
+echapora,41
+santa rita do sapucai,40
+guaruja,40
+fazenda rio grande,40
+jacutinga,40
+tatui,39
+umuarama,39
+vicosa,39
+itapevi,38
+jussara,38
+suzano,37
+jaboticabal,37
+ponte nova,36
+jaguariuna,36
+sao pedro,34
+claudio,34
+sao joaquim da barra,34
+nova iguacu,33
+votuporanga,33
+pocos de caldas,33
+lencois paulista,33
+itauna,32
+ribeirao preto / sao paulo,31
+novo horizonte,31
+varzea paulista,31
+catanduva,30
+ferraz de vasconcelos,30
+criciuma,30
+jaguaruna,29
+jales,29
+mombuca,28
+mirassol,27
+palhoca,27
+congonhal,27
+cariacica,26
+batatais,26
+mococa,26
+fronteira,25
+tabatinga,25
+fernandopolis,25
+anapolis,25
+tres rios,25
+aracatuba,25
+paulinia,24
+bento goncalves,23
+duque de caxias,23
+araras,23
+dois corregos,23
+cafelandia,23
+gama,23
+coronel fabriciano,23
+araucaria,22
+floresta,22
+aparecida,22
+bertioga,22
+aruja,22
+socorro,21
+guanambi,21
+campo bom,20
+pompeia,20
+paraiba do sul,20
+arvorezinha,20
+santo angelo,19
+ipatinga,19
+macae,19
+scao jose do rio pardo,19
+balneario camboriu,19
+ampere,19
+vila velha,19
+icara,18
+itu,18
+sp,18
+toledo,18
+embu guacu,18
+parai,18
+timbo,18
+campo do meio,17
+cornelio procopio,17
+garulhos,17
+salvador,17
+guaratuba,17
+taboao da serra,17
+loanda,17
+massaranduba,17
+vitoria,17
+cachoeirinha,16
+engenheiro coelho,16
+varginha,16
+pilar do sul,16
+rio grande,16
+sao bento do sul,16
+domingos martins,15
+morrinhos,15
+mandirituba,15
+natal,15
+monteiro lobato,15
+artur nogueira,15
+muqui,14
+sando andre,14
+congonhas,14
+vargem grande paulista,14
+mogi das cruses,14
+nilopolis,14
+braganca paulista,14
+barra mansa,13
+nova odessa,13
+tubarao,13
+estancia velha,13
+lagoa santa,12
+santo andre/sao paulo,12
+serrana,12
+sao joao del rei,12
+uruacu,12
+volta redonda,12
+mairipora,12
+taruma,12
+sao pedro da aldeia,12
+teresina,12
+arraial d'ajuda (porto seguro),11
+viamao,11
+ibia,11
+vassouras,11
+rio verde,11
+santa rosa de viterbo,11
+mateus leme,11
+braco do norte,11
+japira,11
+cachoeiro de itapemirim,11
+portao,11
+campos dos goytacazes,11
+pinhalao,11
+pitanga,11
+sp / sp,11
+marechal candido rondon,11
+francisco beltrao,10
+flores da cunha,10
+porto seguro,10
+curitibanos,10
+boituva,10
+sbc/sp,10
+andira-pr,9
+nova lima,9
+laranjal paulista,9
+marica,9
+ouro preto,9
+ponta grossa,9
+porto belo,9
+s jose do rio preto,9
+guanhaes,9
+carapicuiba / sao paulo,9
+camanducaia,9
+bariri,9
+coxim,9
+farroupilha,9
+santa barbara d oeste,9
+sao bento,8
+sao leopoldo,8
+indaial,8
+imbituba,8
+ilheus,8
+piracanjuba,8
+luiz alves,8
+sinop,8
+lorena,8
+nova petropolis,8
+franco da rocha,8
+santa terezinha de itaipu,8
+santo antonio de posse,8
+tabao da serra,8
+buritama,8
+itapeva,7
+mamanguape,7
+venancio aires,7
+timoteo,7
+auriflama,7
+alvorada,7
+xanxere,7
+tanabi,7
+descalvado,7
+sao paluo,7
+campo grande,7
+chapeco,7
+santo antonio de padua,7
+concordia,7
+sabara,6
+eunapolis,6
+rio negrinho,6
+sao jose do rio pardo,6
+conchal,6
+mandaguacu,6
+muriae,6
+laurentino,6
+monte alto,6
+vargem grande do sul,6
+tiradentes,6
+auriflama/sp,6
+serra,6
+bonfinopolis de minas,5
+castro,5
+barretos,5
+brejao,5
+alambari,5
+bandeirantes,5
+bahia,5
+barra velha,5
+extrema,5
+cariacica / es,5
+sao jose dos pinhas,5
+rodeio,5
+lajeado,5
+rio de janeiro / rio de janeiro,5
+rio de janeiro \rio de janeiro,5
+formosa do oeste,5
+paulo lopes,5
+pedregulho,5
+jaragua,5
+presidente epitacio,5
+parnamirim,5
+irati,4
+pederneiras,4
+jambeiro,4
+cambe,4
+california,4
+bocaiuva do sul,4
+caruaru,4
+cataguases,4
+aparecida de goiania,4
+clementina,4
+colatina,4
+leme,4
+monte alegre do sul,4
+picarras,4
+imbe,4
+ipira,4
+itajobi,4
+ao bernardo do campo,4
+angra dos reis,4
+jaci,4
+laguna,3
+itabira,3
+aperibe,3
+montes claros,3
+imbituva,3
+luziania,3
+vespasiano,3
+triunfo,3
+taio,3
+bady bassitt,3
+treze tilias,3
+terra boa,3
+torres,3
+colorado,3
+cachoeira do sul,3
+olimpia,3
+jacarei / sao paulo,3
+santa terezinha de goias,3
+santa rosa,3
+santa maria,3
+rio do oeste,3
+garopaba,3
+vitoria de santo antao,3
+ourinhos,3
+osvaldo cruz,3
+ji parana,3
+ouro fino,3
+itirapina,3
+itaporanga,3
+pedrinhas paulista,3
+lagoa da prata,3
+fernando prestes,3
+campina grande,2
+sao vicente,2
+sao paulo / sao paulo,2
+bom jardim,2
+camboriu,2
+balenario camboriu,2
+sao paulop,2
+nova trento,2
+vendas@creditparts.com.br,2
+maua/sao paulo,2
+varzea alegre,2
+lambari,2
+neopolis,2
+parana,2
+joao pessoa,2
+jaciara,2
+paraiso do sul,2
+pinhalzinho,2
+pinhais/pr,2
+igaracu do tiete,2
+ipe,2
+itapetininga,2
+uberaba,2
+formosa,2
+embu das artes,2
+floranopolis,2
+guaira,2
+gaspar,2
+governador valadares,2
+"rio de janeiro, rio de janeiro, brasil",2
+robeirao preto,2
+ferraz de  vasconcelos,2
+cerqueira cesar,2
+sao joao da boa vista,2
+sao  jose dos pinhais,2
+sao miguel d'oeste,2
+rio bonito,2
+cosmopolis,2
+sao jose do rio pret,2
+imigrante,1
+ibirite,1
+prados,1
+resende,1
+itapema,1
+pouso alegre,1
+ipua,1
+irece,1
+pitangueiras,1
+pirassununga,1
+paracambi,1
+paranavai,1
+passos,1
+pelotas,1
+itapui,1
+ivoti,1
+juzeiro do norte,1
+jarinu,1
+orlandia,1
+palotina,1
+oliveira,1
+orleans,1
+angra dos reis rj,1
+araquari,1
+aracaju,1
+mucambo,1
+mage,1
+minas gerais,1
+viana,1
+messias targino,1
+nhandeara,1
+"novo hamburgo, rio grande do sul, brasil",1
+sao miguel do oeste,1
+condor,1
+caucaia,1
+cianorte,1
+cordilheira alta,1
+feira de santana,1
+cravinhos,1
+dores de campos,1
+santa catarina,1
+guaimbe,1
+rio das pedras,1
+goioere,1
+francisco morato,1
+ronda alta,1
+sao paulo sp,1
+castro pires,1
+soledade,1
+bofete,1
+sbc,1
+campo magro,1
+são paulo,1
+sao sebastiao da grama/sp,1
+carmo da mata,1
+cacador,1
+avare,1
+belo horizont,1
+belford roxo,1
+barbacena,1
+tres de maio,1
+barbacena/ minas gerais,1
+uniao da vitoria,1
+xaxim,1
